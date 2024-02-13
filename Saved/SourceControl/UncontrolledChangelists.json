@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dseo3/OneDrive/Documents/Unreal Projects/ActionRPG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/dseo3/OneDrive/Documents/Unreal Projects/ActionRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/dseo3/OneDrive/Documents/Unreal Projects/ActionRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/dseo3/OneDrive/Documents/Unreal Projects/ActionRPG/Content/ThirdPerson/Blueprints/ActionRPGController.uasset",
+				"C:/Users/dseo3/OneDrive/Documents/Unreal Projects/ActionRPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/dseo3/OneDrive/Documents/Unreal Projects/ActionRPG/Content/ThirdPerson/Input/Actions/IA_Click.uasset",
+				"C:/Users/dseo3/OneDrive/Documents/Unreal Projects/ActionRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ER/6Q2W947SYJ7TITAKCJICBG.uasset",
+				"C:/Users/dseo3/OneDrive/Documents/Unreal Projects/ActionRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/SG/PN4V587OS3VGDI13895F5O.uasset"
+			]
+		}
+	]
+}
